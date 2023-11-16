@@ -1,0 +1,15 @@
+article{
+    margin: 0 auto;
+    padding: 25px;
+    width: 70%;
+
+}
+
+article h3{
+    text-align: center;
+}
+
+article img{
+    width: 400px;
+    margin: 10px 30%;
+}
